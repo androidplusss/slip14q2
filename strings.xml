@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">slip14q2</string>
+    <string-array name="coffee_options">
+        <item>Filter</item>
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Filter Cappuccino</item>
+        <item>Mocha</item>
+        <item>Skinny</item>
+        <item>Espresso Corretto</item>
+    </string-array>
+</resources>
